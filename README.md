@@ -5,7 +5,9 @@ I’m currently learning Everything 🌱
 <h3>Let's be friend 👋</h3>
   <a href= "https://www.instagram.com/fauzannursalma/"><img src="https://img.icons8.com/dusk/48/000000/instagram.png"/></a>
   <a href= "https://www.linkedin.com/in/fauzannursalma/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
-
+<br />
+<br />
+---
 ### language
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzannursalma)
