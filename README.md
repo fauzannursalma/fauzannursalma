@@ -1,5 +1,6 @@
 ### Hello there, it's me Fauzann 👋
-🌱 I’m currently learning Everything ⚛
+🌱 I’m currently learning Everything 
+
 💬 Ask me about anything and i'll search it on google 😂
 
 ## Let's be friend 👋
