@@ -10,9 +10,9 @@
 
 ## Statistics
 <p align="left">
-<a href="https://github.com/gilangadhan">
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=buefy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+<a href="https://github.com/fauzannursalma">
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fauzannursalma&layout=compact&langs_count=8&theme=buefy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fauzannursalma&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 </a>
 </p>
 
