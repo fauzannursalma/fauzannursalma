@@ -12,6 +12,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzannursalma)
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fauzannursalma&layout=compact&langs_count=8&theme=algolia"/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-</a>
+![Top Langs]("https://github.com/anuraghazra/github-readme-stats")
+
 <!-- (https://github.com/anuraghazra/github-readme-stats)
