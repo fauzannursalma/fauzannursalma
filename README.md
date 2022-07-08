@@ -29,5 +29,7 @@
 
 
 
-## Github status
+## Github Status
+<p align="left">
 <img align="center" alt="coding" width="1000" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg">
+</p>
