@@ -3,9 +3,9 @@
 
 💬 Ask me about anything and i'll search it on google 😂
 
-## Let's be friend 👋
-  <a href= "https://www.instagram.com/fauzannursalma/"><img src="https://img.icons8.com/dusk/48/000000/instagram.png"/></a>
+## Connect with me 👋
   <a href= "https://www.linkedin.com/in/fauzannursalma/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
+  <a href= "https://www.instagram.com/fauzannursalma/"><img src="https://img.icons8.com/dusk/48/000000/instagram.png"/></a>
 
 
 ## Statistics
