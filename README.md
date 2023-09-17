@@ -5,7 +5,6 @@
 
 ## Connect with me 👋
   <a href= "https://www.linkedin.com/in/fauzannursalma/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
-  <a href= "https://www.instagram.com/fauzannursalma/"><img src="https://img.icons8.com/dusk/48/000000/instagram.png"/></a>
 
 
 ## Statistics
